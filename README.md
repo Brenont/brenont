@@ -21,8 +21,6 @@
     </table>
 </center>
 
-- 👨‍💻 All of my projects are available at [brenont.github.io](https://brenont.github.io)
-
 - 💬 Ask me about **javascript, react, styled-components**
 
 - 📫 How to reach me **brenontavares@gmail.com**
